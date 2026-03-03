@@ -1,0 +1,30 @@
+# Папки сборки
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.o
+*.obj
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vcxproj.user
+
+# Eclipse
+.settings/
+.cproject
+.project
+
+# Папки VS Code
+.vscode/
+
+# Временные файлы
+*.log
+*.tmp
+*.cache
+*.pdb
